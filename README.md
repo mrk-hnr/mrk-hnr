@@ -1,6 +1,5 @@
 ### Hi there 👋
-![gitHeader001](https://github.com/mrk-hnr/mrk-hnr/assets/72196962/73b387cc-610c-4047-9da4-f17a29650a31)
-
+![gitHeader001](https://github.com/mrk-hnr/mrk-hnr/assets/72196962/9158cdbd-c71a-4b62-abcc-72657f87cc1e)
 
 <!--
 **mrk-hnr/mrk-hnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
