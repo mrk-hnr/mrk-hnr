@@ -1,6 +1,5 @@
 
 ### Hi there 👋
-![Henri](https://github.com/mrk-hnr/mrk-hnr/assets/72196962/8a02095d-255d-4799-9299-ae7a26d4a3d9)
 
 
 <!--
