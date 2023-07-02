@@ -5,9 +5,7 @@ style="border-radius: .5rem" width=75% src="https://scontent.fmnl25-4.fna.fbcdn.
 </div>
 
 <p align="center">
-    I am a community-taught developer.
-</p>
-<p align="center">
+    From self-taught to a community-taught developer, <br>
     I currently specialize in front-end development and will eventually tackle the challenge and joy of being a Full-Stack Developer.
 </p>
 
