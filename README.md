@@ -5,6 +5,8 @@ style="border-radius: .5rem" width=75% src="https://scontent.fmnl25-4.fna.fbcdn.
 </div>
 
 <p align="center">
+   _No man is an island_
+    John Donne
     I am a community-taught developer.
 </p>
 <p align="center">
@@ -22,10 +24,13 @@ style="border-radius: .5rem" width=75% src="https://scontent.fmnl25-4.fna.fbcdn.
 </p>
 
 
-  <h1 align="center">Let's connect!</h1>
+  <h1 align="center">Let's Connect!</h1>
   <p align="center">
     <a href="https://twitter.com/mrkh3nr">
-        <img src="https://img.shields.io/badge/mrkh3nr-what?logo=twitter&label=Twitter&color=blue">
+        <img src="https://img.shields.io/badge/Twitter%20-%20?style=plastic&logo=twitter&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)">
+    </a>
+     <a href="https://www.linkedin.com/in/mark-henri">
+        <img src="https://img.shields.io/badge/LinkedIn%20-%20?style=plastic&logo=linkedin&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)">
     </a>
 </p>
 <!--
