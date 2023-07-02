@@ -5,8 +5,6 @@ style="border-radius: .5rem" width=75% src="https://scontent.fmnl25-4.fna.fbcdn.
 </div>
 
 <p align="center">
-   _No man is an island_
-    John Donne
     I am a community-taught developer.
 </p>
 <p align="center">
