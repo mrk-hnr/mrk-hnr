@@ -1,6 +1,6 @@
 <div align="center">
 <img
-style="border-radius: .5rem" width=75% src="https://scontent.fmnl4-6.fna.fbcdn.net/v/t39.30808-6/357726830_1926918087677141_3820654761121616209_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0debeb&_nc_eui2=AeH4UWyaqYi2BC17QZy4RgXUPR-v0TxNmtM9H6_RPE2a08pdhN0A69HmeYDel_O86UYx5Q7D3C3eYBkahJa5DhFR&_nc_ohc=zJHDjDJDmR8AX8RFKGB&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfAlZHt7gg6t-L4dB3sL0OiRyzKHewBbvlssBzP2AgiVJA&oe=64E3C32A">
+style="border-radius: .5rem" width=75% src="#">
 </div>
 
 <p align="center">
@@ -15,6 +15,7 @@ style="border-radius: .5rem" width=75% src="https://scontent.fmnl4-6.fna.fbcdn.n
     <img src="https://img.shields.io/badge/HTML5%20-%20?style=plastic&logo=html5&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)">
     <img src="https://img.shields.io/badge/CSS3%20-%20?style=plastic&logo=css3&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
     <img src="https://img.shields.io/badge/SASS%20-%20?style=plastic&logo=sass&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
+    <img src="https://img.shields.io/badge/TailwindCSS%20-%20?style=plastic&logo=tailwindcss&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
     <img src="https://img.shields.io/badge/JavaScript%20-%20?style=plastic&logo=javascript&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
     <img src="https://img.shields.io/badge/Node.js%20-%20?style=plastic&logo=node.js&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)">
 <img src="https://img.shields.io/badge/Express%20-%20?style=plastic&logo=express&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
