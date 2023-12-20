@@ -17,6 +17,7 @@ style="border-radius: .5rem" width=75% src="#">
     <img src="https://img.shields.io/badge/SASS%20-%20?style=plastic&logo=sass&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
     <img src="https://img.shields.io/badge/TailwindCSS%20-%20?style=plastic&logo=tailwindcss&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
     <img src="https://img.shields.io/badge/JavaScript%20-%20?style=plastic&logo=javascript&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
+    <img src="https://img.shields.io/badge/React%20-%20?style=plastic&logo=react&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
     <img src="https://img.shields.io/badge/Node.js%20-%20?style=plastic&logo=node.js&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)">
 <img src="https://img.shields.io/badge/Express%20-%20?style=plastic&logo=express&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
 <img src="https://img.shields.io/badge/Postman%20-%20?style=plastic&logo=postman&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)"/>
