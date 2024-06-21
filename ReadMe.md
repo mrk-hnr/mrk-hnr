@@ -4,8 +4,7 @@ style="border-radius: .5rem" width=75% src="#">
 </div>
 
 <p align="center">
-    From self-taught to a community-taught developer, <br>
-    I currently specialize in front-end development and will eventually tackle the challenge and joy of being a Full-Stack Developer.
+    Currently upskilling, <br>
 </p>
 
 
