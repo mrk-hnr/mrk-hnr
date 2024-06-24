@@ -33,7 +33,13 @@ style="border-radius: .5rem" width=75% src="#">
         <img src="https://img.shields.io/badge/LinkedIn%20-%20?style=plastic&logo=linkedin&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)">
     </a>
 </p>
+
 <!--
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrk-hnr&theme=radical&hide_border=true&border_radius=5&hide_current_streak=true" alt="GitHub Streak" /></a> </p>
+
+
 **mrk-hnr/mrk-hnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
