@@ -6,7 +6,7 @@ style="border-radius: .5rem" width=75% src="#">
 <h2 align="center">👨🏻‍💻 Currently: 👨🏻‍💻</h2>
 
 <p align="center">
-    Undergoing mentorship program <br>
+    Currently upskilling <br>
 <p align="center">
 
 
