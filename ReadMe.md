@@ -25,7 +25,6 @@ style="border-radius: .5rem" width=75% src="#">
 ![PHP](https://img.shields.io/badge/PHP-1d1f21?&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/12299287/cryptocode)
 
 </div>
 
