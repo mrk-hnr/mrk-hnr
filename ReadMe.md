@@ -29,7 +29,7 @@ style="border-radius: .5rem" width=75% src="#">
 </div>
 
 <p align="center">
-  <img style="height: auto; width: 25%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrk-hnr&theme=cobalt&langs_count=8&layout=compact" />
+  <img style="height: auto; width: 35%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrk-hnr&theme=cobalt&langs_count=8&layout=compact" />
 </p>
 
 
