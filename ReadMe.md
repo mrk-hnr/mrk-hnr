@@ -25,6 +25,7 @@ style="border-radius: .5rem" width=75% src="#">
 ![PHP](https://img.shields.io/badge/PHP-1d1f21?&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/12299287/cryptocode)
 
 </div>
 
@@ -34,14 +35,22 @@ style="border-radius: .5rem" width=75% src="#">
 
 
   <h2 align="center">Let's Connect!</h2>
-  <p align="center">
-    <a href="https://twitter.com/mrkh3nr">
-        <img src="https://img.shields.io/badge/Twitter%20-%20?style=plastic&logo=twitter&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)">
-    </a> <br>
-     <a href="https://www.linkedin.com/in/mark-henri">
-        <img src="https://img.shields.io/badge/LinkedIn%20-%20?style=plastic&logo=linkedin&label=%E2%94%82&labelColor=rgba(15%2C%2066%2C%20110%2C%200.9)&color=rgba(20%2C%20132%2C%20167%2C%200.9)">
-    </a>
-</p>
+
+<div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/Linkedin-1d1f21?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrk-hnr)
+[![Twitter](https://img.shields.io/badge/Twitter-1d1f21?logo=X&logoColor=white)](https://twitter.com/mrkh3nr)
+
+</div>
+
+
+<div align="center">
+
+[![Visits](https://komarev.com/ghpvc/?username=mrk-hnr&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/mrk-hnr)
+
+</div>
+
+
 
 <!--
 
