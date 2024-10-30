@@ -21,6 +21,7 @@ style="border-radius: .5rem" width=75% src="#">
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=flat&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-Sass-1d1f21?style=flat&logo=Sass&logoColor=CC6699)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1d1f21?style=flat&logo=TailwindCSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-1d1f21?&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=white)
