@@ -23,6 +23,7 @@ style="border-radius: .5rem" width=75% src="#">
 ![SASS](https://img.shields.io/badge/-Sass-1d1f21?style=flat&logo=Sass&logoColor=CC6699)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1d1f21?style=flat&logo=TailwindCSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-1d1f21?style=flat&logo=react)
 ![PHP](https://img.shields.io/badge/PHP-1d1f21?&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
