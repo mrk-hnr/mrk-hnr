@@ -6,7 +6,7 @@ style="border-radius: .5rem" width=75% src="#">
 <h2 align="center">👨🏻‍💻 Currently: 👨🏻‍💻</h2>
 
 <p align="center">
-    Currently upskilling <br>
+    Personal projects on hold due to employment <br>
 <p align="center">
 
 
@@ -27,6 +27,7 @@ style="border-radius: .5rem" width=75% src="#">
 ![PHP](https://img.shields.io/badge/PHP-1d1f21?&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
+![Wordpress](https://img.shields.io/badge/-Wordpress-1d1f21?style=flat&logo=Wordpress&logoColor=ffffff)
 
 </div>
 
