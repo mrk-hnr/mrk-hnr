@@ -28,6 +28,7 @@ style="border-radius: .5rem" width=75% src="#">
 ![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=MySQL&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-1d1f21?style=flat&logo=Wordpress&logoColor=ffffff)
+![Sitecore](https://img.shields.io/badge/-Sitecore-1d1f21?style=flat&logo=Sitecore&logoColor=ffffff)
 
 </div>
 
