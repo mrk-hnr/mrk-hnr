@@ -42,7 +42,6 @@ style="border-radius: .5rem" width=75% src="#">
 <div align="center">
     
 [![LinkedIn](https://img.shields.io/badge/Linkedin-1d1f21?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrk-hnr)
-[![Twitter](https://img.shields.io/badge/Twitter-1d1f21?logo=X&logoColor=white)](https://twitter.com/mrkh3nr)
 
 </div>
 
